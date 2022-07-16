@@ -1,0 +1,86 @@
+
+html{
+    cursor: url(imagens/rede.png) 30 30, auto;
+}
+body{
+    background-image: url(imagens/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+/* posição das bolhas */
+.bolhas{
+    margin-top: 195px;
+    background-repeat: repeat-x;
+    background-position: center;
+}
+
+/*modificação do 
+tamanho da água-viva*/
+.aguaViva1{
+    height: 50px;
+    width:50px;
+}
+.aguaViva2{
+    height: 70px;
+    width: 70px;
+}
+.aguaViva3{
+    height: 90px;
+    width: 90px;
+}
+
+/*Vidas e tempo restante*/
+.painel{
+    position: absolute;
+    width: 130px;
+    padding: 10px;
+    bottom: 0px;
+    border-top: solid 1px #fff;
+    background-color: #fff;
+    opacity: 0.7;
+    left: 0px;
+    float: bottom;
+}
+.vidas{
+    float: left;
+}
+.conometro{
+    float:left ;
+    font-size:20px ;
+    font-weight: bold;
+}
+
+/*botões do inicio do jogo*/
+#btAmarelo{
+    margin-top: -95px;
+    margin-bottom: 45px;
+    position: absolute;
+    background-position: center;
+}
+.bolhas1{
+    position: relative;
+    margin-top: 195px;
+    background-repeat: repeat-x;
+    margin-left: 35px;
+    background-size: cover;
+    background-position: center;
+
+}
+
+#game1{
+    position: absolute;
+    margin-top: -550px;
+    background-size: cover;
+    background-position: center;
+}
+#nivel{
+    margin-top: -145px;
+    margin-bottom: 45px;
+    position: absolute;
+    margin-left: 35px;
+    background-position: center;
+
+}
