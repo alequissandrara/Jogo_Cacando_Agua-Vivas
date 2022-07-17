@@ -12,7 +12,7 @@ Ferramentas que utilizei para criar meu projeto:
 
 * [Bootstrap](https://getbootstrap.com/) - O framework web usado.
 * [Microsoft Paint](https://apps.microsoft.com/store/detail/paint-3d/9NBLGGH5FV99?hl=pt-br&gl=BR) - Para edição simplificada 
-de imagensde Game Over e o nome do início do jogo.
+de imagens de Game Over e o nome do início do jogo.
 * [VScode](https://code.visualstudio.com/) - Usado para a editoção do código-fonte dos arquivos, como: HTML5, CSS3, JavaScript e Bootstrap. 
 
 ## 📷 Imagens do Jogo:
