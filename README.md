@@ -4,6 +4,7 @@ Este jogo tem como objetivo que o jogador clique nas águas-vivas que vão apare
 utilizando uma varinha com rede no lugar do cursor do mouse, antes que o tempo acabe. Se caso, não houver nenhum clique em cima das águas-vivas, 
 o jogador vai perdendo vidas, que simbolizam corações no canto inferior esquerdo da tela.
 O jogo possuí 3 níveis de  diferentes dificuldades para a melhor experiência do jogador. 
+Link: https://alequissandrara.github.io/Jogo_Cacando_Agua-Vivas/
 
 ## 🛠️ Construído com:
 
