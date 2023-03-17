@@ -9,14 +9,18 @@ body{
     background-position: center;
     background-attachment: fixed;
     overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-/* posição das bolhas */
+/* posição das bolhas dentro do jogo */
 .bolhas{
     margin-top: 195px;
     background-repeat: repeat-x;
     background-position: center;
 }
-
 /*modificação do 
 tamanho da água-viva*/
 .aguaViva1{
@@ -47,7 +51,7 @@ tamanho da água-viva*/
 .vidas{
     float: left;
 }
-.conometro{
+.cronometro{
     float:left ;
     font-size:20px ;
     font-weight: bold;
@@ -55,32 +59,29 @@ tamanho da água-viva*/
 
 /*botões do inicio do jogo*/
 #btAmarelo{
-    margin-top: -95px;
-    margin-bottom: 45px;
+    margin-top: -11rem;
     position: absolute;
-    background-position: center;
+    margin-right: 1rem;
 }
+
+/* posição das bolhas no menu iniciar */
 .bolhas1{
-    position: relative;
     margin-top: 195px;
     background-repeat: repeat-x;
     margin-left: 35px;
     background-size: cover;
     background-position: center;
-
+    position: relative;
 }
 
 #game1{
-    position: absolute;
-    margin-top: -550px;
-    background-size: cover;
-    background-position: center;
+    display: flex;
+    justify-content: center;
 }
-#nivel{
-    margin-top: -145px;
-    margin-bottom: 45px;
-    position: absolute;
-    margin-left: 35px;
-    background-position: center;
 
+#nivel{
+    width: 15rem;
+    height: 15rem;
+    margin-top: -5rem;
+    margin-left: 25%;
 }
